@@ -1,8 +1,8 @@
 ## 機能
 ### 必須 / やりたい
-- webサーバー（WSGIとか）
+- webサーバー（WSGIとか）:doing
 - ルーティング(URL分析して関数を呼び出し）
-- HTML Template
+- HTML Template:doing
 - DB接続（ORMはSQLAlchemyとか）
 - 起動コマンド・デーモン管理
 

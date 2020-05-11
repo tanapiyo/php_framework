@@ -11,6 +11,7 @@ pytest = "*"
 tox = "*"
 
 [packages]
+jinja2 = "*"
 
 [requires]
 python_version = "3.8"
